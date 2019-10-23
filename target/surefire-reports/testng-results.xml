@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="24" started-at="2019-09-23T15:04:05Z" finished-at="2019-09-23T15:04:05Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="24" started-at="2019-09-23T15:04:05Z" finished-at="2019-09-23T15:04:05Z">
+      <class name="QaclickAcademy.appiumTest">
+        <test-method status="PASS" signature="appiumtest1()[pri:0, instance:QaclickAcademy.appiumTest@475530b9]" name="appiumtest1" duration-ms="9" started-at="2019-09-23T15:04:05Z" finished-at="2019-09-23T15:04:05Z">
+        </test-method> <!-- appiumtest1 -->
+      </class> <!-- QaclickAcademy.appiumTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
