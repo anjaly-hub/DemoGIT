@@ -8,5 +8,6 @@ public class appiumTest {
 		System.out.println("open browser");
 		System.out.println("driver initialization");
 		System.out.println("driver initialization");
+		System.out.println("Hello World");
 }
 }
